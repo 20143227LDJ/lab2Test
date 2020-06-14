@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 test test2
+=======
+<<<<<<< HEAD
+test test2 test3 test2test
+hi nice meet you
+=======
+test test2 test3 test4
+hello world!!!
+<<<<<<< HEAD
+hello world3
+=======
+>>>>>>> test3
+>>>>>>> test2
+>>>>>>> test
